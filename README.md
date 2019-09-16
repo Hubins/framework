@@ -1,8 +1,8 @@
-PHP microservice coroutine framework
+大型网站技术架构
 
-> **[中文说明](README.zh-CN.md)**
+> **[架构分析]**
 
-## Introduction
+## 简语
 
 Swoft is a PHP microservices coroutine framework based on the Swoole extension. Like Go, Swoft has a built-in coroutine web server and a common coroutine client and is resident in memory, independent of traditional PHP-FPM. There are similar Go language operations, similar to the Spring Cloud framework flexible annotations, powerful global dependency injection container, comprehensive service governance, flexible and powerful AOP, standard PSR specification implementation and so on.
 
