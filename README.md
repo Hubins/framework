@@ -15,15 +15,7 @@
 
 - QQ 联系: 569284473  
 
-## Requirement
-
-- [PHP 7.1+](https://github.com/php/php-src/releases)
-- [Swoole 4.3.4+](https://github.com/swoole/swoole-src/releases)
-- [Composer](https://getcomposer.org/)
-
-## Install
-
-### Composer
+## Composer
 
 ```bash
 composer create-project swoft/swoft swoft
